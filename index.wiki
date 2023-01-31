@@ -12,7 +12,7 @@
     # UET_Graphics_TFTLCD
 
 == Sensors ==
-    
+
     # UET_Sensors_MPU6050
     # UET_Sensors_LIS3DH
 
@@ -24,7 +24,6 @@
 
     # UET_Modules_DS1307_RTC
     # UET_Modules_TM1637_7_Segment
-    
 
 == Operating Systems ==
 
