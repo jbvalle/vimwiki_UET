@@ -1,0 +1,55 @@
+body {
+  background-color: #2b2b2b;
+  color: #ddd;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+}
+
+a {
+  color: #8be9fd;
+}
+
+h1 {
+  color: #f8f8f2;
+}
+
+h2 {
+  color: #50fa7b;
+}
+
+h3 {
+  color: #ff79c6;
+}
+
+h4 {
+  color: #f1fa8c;
+}
+
+h5 {
+  color: #bd93f9;
+}
+
+h6 {
+  color: #ffb86c;
+}
+
+pre {
+  background-color: #44475a;
+  color: #f8f8f2;
+  border-radius: 5px;
+  padding: 10px;
+  overflow: auto;
+}
+
+code {
+  background-color: #44475a;
+  color: #f8f8f2;
+  border-radius: 3px;
+  padding: 2px 5px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
