@@ -9,7 +9,7 @@
 
 == Graphics ==
 
-    # UET_Graphics_TFTLCD
+    # [[UET_Graphics_TFTLCD]]   - Describing Fundamentals and Programming
 
 == Sensors ==
 
