@@ -1,0 +1,39 @@
+:UET:OS:Real_Time_OS:Examples:
+----
+= List of RTOS in different industries =
+
+    # *Automotive*: 
+        * AUTOSAR, 
+        * INTEGRITY, 
+        * QNX, 
+        * VxWorks
+    
+    # *Aerospace*: 
+        * INTEGRITY, 
+        * LynxOS, 
+        * QNX, 
+        * VxWorks
+    
+    # *Medical Devices*: 
+        * MQX, 
+        * FreeRTOS, 
+        * μC/OS-II, 
+        * INTEGRITY
+    
+    # *Industrial Control Systems*: 
+        * FreeRTOS, 
+        * μC/OS-II, 
+        * INTEGRITY, 
+        * VxWorks
+    
+    # *Consumer Electronics*: 
+        * FreeRTOS, 
+        * μC/OS-II, 
+        * MQX, 
+        * RT-Thread
+    
+    # *Internet of Things (IoT)*: 
+        * FreeRTOS, 
+        * μC/OS-II, 
+        * Zephyr, 
+        * RT-Thread
