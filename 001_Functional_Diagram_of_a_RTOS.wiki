@@ -1,0 +1,5 @@
+:UET:OS:Real_Time_OS:Fundamentals:
+----
+= Functional Diagram of a RTOS =
+
+{{local:./img/rtos_function_diagram.jpg}}
