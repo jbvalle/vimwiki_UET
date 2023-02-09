@@ -37,6 +37,11 @@
 
     # UET_Design_Kicad
 
+== Skill Set ==
+
+    # [[UET_SS_overview]]
+    # [[UET_SS_robotics_speciality]]
+     
 == Self Improvement ==
 
     # [[UET_SI_Drive]]

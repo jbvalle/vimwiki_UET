@@ -1,0 +1,5 @@
+:UET:SS:robotics_speciality:
+----
+= My Embedded Systems Speciality =
+
+{{local:./img/UET_SS_img/robotics_specialization_skill_set.jpg}}

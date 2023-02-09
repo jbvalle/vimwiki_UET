@@ -1,0 +1,5 @@
+:UET:SS:overview:
+----
+= My Skill Set Overview =
+
+{{local:./img/UET_SS_img/embedded_skill_set.jpg}}
