@@ -2,6 +2,6 @@
 ----
 = Source of Drive =
 
-[[local:./img/UET_SI_img/UET_SI_drive.jpg]]
+{{local:./img/UET_SI_img/UET_SI_drive.jpg}}
 
 

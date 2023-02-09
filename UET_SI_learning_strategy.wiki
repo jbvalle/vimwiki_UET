@@ -1,4 +1,4 @@
 :OS:SI:learning_strategy:
 ----
 = Learning Stratgy =
-[[local:./img/UET_SI_img/UET_SI_learning_strategy.jpg]]
+{{local:./img/UET_SI_img/UET_SI_learning_strategy.jpg}}
