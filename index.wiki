@@ -36,3 +36,8 @@
 == Design ==
 
     # UET_Design_Kicad
+
+== Self Improvement ==
+    
+    # [[UET_SI_Drive]]
+    # [[UET_SI_learning_strategy]]
