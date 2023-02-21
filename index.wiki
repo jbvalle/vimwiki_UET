@@ -38,14 +38,14 @@
     # UET_Design_Kicad
 
 == Information and Communication Applications ==
-    
+
     # [[UET_ICA_information_theory_overview]]
 
 == Skill Set ==
 
     # [[UET_SS_overview]]
     # [[UET_SS_robotics_speciality]]
-     
+
 == Self Improvement ==
 
     # [[UET_SI_Drive]]
