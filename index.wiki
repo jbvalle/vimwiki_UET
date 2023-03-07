@@ -40,6 +40,9 @@
 == Information and Communication Applications ==
 
     # [[UET_ICA_information_theory_overview]]
+    
+== Linear Algebra ==
+    # [[UET_LA_Simplification_of_transformations_through_eigenvectors]]
 
 == Skill Set ==
 

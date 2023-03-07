@@ -1,0 +1,4 @@
+:UET:LA:Simplification_of_transformations_through_eigenvectors:
+----
+
+{{local:./img/transformation_simplification_through_eigenvectors.png}}
