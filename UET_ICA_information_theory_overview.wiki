@@ -2,5 +2,10 @@
 ----
 
 = Information Theory Overview =
+# [[001_Overview_information_theory]]
 
-{{local:./UET_ICA_information_theory_overview.png}}
+= Source Coding =
+# [[001_information_theory_source_coding]]
+
+
+
