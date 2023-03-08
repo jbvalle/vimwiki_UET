@@ -1,0 +1,3 @@
+:UET:LA:lin_eq:Determinant:determinant_for_3x3_4x4:
+----
+{{local:./img/determinant_3x3_4x4.png}}

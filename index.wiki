@@ -44,6 +44,7 @@
 == Linear Algebra ==
     # [[UET_LA_Simplification_of_transformations_through_eigenvectors]]
     # [[UET_LA_lin_eq]]
+    # [[UET_LA_determinant]]
 
 == Skill Set ==
 

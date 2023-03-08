@@ -1,0 +1,5 @@
+:UET:LA:lin_eq:Determinant:
+----
+
+== Determining the Determinant for a 3x3 or 4x4 Matrix ==
+# [[determinant_for_3x3_4x4]]
