@@ -1,0 +1,3 @@
+:UET:LA:lin_eq:Edge_Cases:
+----
+{{local:./img/lin_eq_edge_cases.png}}

@@ -2,3 +2,6 @@
 ----
 == Gaussian (Jordan) Elimination ==
 # [[Gaussian_Elimination]]
+
+== Edge Cases ==
+# [[Edge_Cases]]
