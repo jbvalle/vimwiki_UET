@@ -1,0 +1,4 @@
+:UET:LA:lin_eq:
+----
+== Gaussian (Jordan) Elimination ==
+# [[Gaussian_Elimination]]

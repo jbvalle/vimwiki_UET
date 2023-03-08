@@ -1,0 +1,3 @@
+:UET:LA:lin_eq:GJE:
+----
+{{local:./img/gaus_algo.png}}
