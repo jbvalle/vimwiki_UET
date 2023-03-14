@@ -1,0 +1,5 @@
+:UET:LA:lin_eq:lin_independence:
+----
+
+== Determining Linear Independence of Vectors ==
+{{local:./img/UET_LA/lin_independence.png}}
