@@ -3,3 +3,5 @@
 == Resources ==
     # https://www.iota.org/foundation/research-papers
     # https://wiki.iota.org/
+    # https://iota.stackexchange.com/questions/tagged/client-library
+    # [[xCube_quickstarter]]
