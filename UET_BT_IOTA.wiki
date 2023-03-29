@@ -4,4 +4,4 @@
     # https://www.iota.org/foundation/research-papers
     # https://wiki.iota.org/
     # https://iota.stackexchange.com/questions/tagged/client-library
-    # [[xCube_quickstarter]]
+    # [[file:./res/iota/x-cube-iota1_quick_start_guide.pdf|xCube_quickstarter]]
