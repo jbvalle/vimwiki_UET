@@ -1,0 +1,5 @@
+:UET:BT:IOTA:
+----
+== Resources ==
+    # https://www.iota.org/foundation/research-papers
+    # https://wiki.iota.org/
