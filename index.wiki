@@ -40,6 +40,7 @@
 == Information and Communication Applications ==
 
     # [[UET_ICA_information_theory_overview]]
+    # [[UET_ICA_Encryption_Decryption]]
     
 == Linear Algebra ==
     # [[UET_LA_Simplification_of_transformations_through_eigenvectors]]

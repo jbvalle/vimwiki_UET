@@ -1,0 +1,6 @@
+:UET:ICA:Encryption_Decryption:
+----
+= Encryption and Decryption using OPENSSL =
+
+{{local:./img/encryption_decryption.png}}
+
