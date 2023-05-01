@@ -1,0 +1,4 @@
+:UET:NC:business_strategy:
+----
+= Business Strategy =
+{{local:./img/UET_NC/UET_NC_Business_strategy_9_steps.png}}

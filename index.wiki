@@ -63,3 +63,7 @@
 
     # [[UET_SI_Drive]]
     # [[UET_SI_learning_strategy]]
+
+== Nexocrypt ==
+    
+    # [[UET_NC_Business_strategy]]
