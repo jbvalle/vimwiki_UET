@@ -1,5 +1,5 @@
 :UET:ARM:cortex_m4:
 ----
-= Cortex M4 Processor Registers =
+== Cortex M4 Processor Registers ==
 
 {{local:./img/cortex_m4.png}}
