@@ -2,4 +2,4 @@
 ----
 == Cortex M4 Processor Registers ==
 
-{{local:./img/cortex_m4.png}}
+{{local:./img/cortex_m4_register.png}}
