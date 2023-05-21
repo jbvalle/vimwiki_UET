@@ -1,0 +1,6 @@
+:UET:ARM:Taskscheduler:
+----
+
+== State of a Task ==
+
+{{local:./img/state_of_a_task.png}}

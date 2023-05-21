@@ -3,3 +3,7 @@
 == Cortex M4 Processor Registers ==
 
 {{local:./img/cortex_m4_register.png}}
+
+== Stack Pointer ==
+
+{{local:./img/stack_pointer.png}}
