@@ -41,7 +41,7 @@
 
     # [[UET_ICA_information_theory_overview]]
     # [[UET_ICA_Encryption_Decryption]]
-    
+
 == Linear Algebra ==
     # [[UET_LA_Simplification_of_transformations_through_eigenvectors]]
     # [[UET_LA_lin_eq]]
@@ -74,3 +74,6 @@
     # [[UET_ARM_NVIC]]
     # [[UET_ARM_SysTick]]
     # [[UET_ARM_Taskscheduler]]
+    
+== Embedded Systems Skill Tree ==
+    # [[UET_ESST_overview]]

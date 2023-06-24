@@ -1,0 +1,19 @@
+"Introduction to Flight" by John D. Anderson Jr.: This book provides a solid introduction to the principles of flight, including aerodynamics, aircraft performance, and stability. Understanding these concepts is crucial for designing and building a drone.
+
+"Drone: Remote Sensing, Monitoring, and Control" by Kimon P. Valavanis: This book offers a comprehensive overview of unmanned aerial systems, including their design, control, and applications. It covers both theoretical concepts and practical considerations.
+
+"Aircraft Control and Simulation" by Brian L. Stevens and Frank L. Lewis: This book focuses on the control and simulation of aircraft systems, providing insights into flight dynamics, stability, and control techniques. It can help you understand the control systems aspect of drone design.
+
+"Modern Control Engineering" by Katsuhiko Ogata: This book covers the principles of control systems, including classical and modern control techniques. It provides a solid foundation for designing and implementing control systems for drones.
+
+"Principles of Helicopter Aerodynamics" by J. Gordon Leishman: While drones and helicopters have differences, this book offers valuable insights into the aerodynamics and flight characteristics of rotorcraft, which can be useful for understanding the principles behind drone flight.
+
+"Small Unmanned Aircraft: Theory and Practice" by Randal W. Beard and Timothy W. McLain: This book specifically focuses on small unmanned aircraft systems, including their design, control, and applications. It covers topics such as flight dynamics, navigation, and sensor integration.
+
+"Drone Engineering: A Guide to Design and Build Your Own UAS" by Peter von Buskirk: This practical guide covers various aspects of drone engineering, including airframe design, propulsion systems, control systems, and payload integration. It offers step-by-step instructions and examples.
+
+"UAV Systems Engineering" by Andrew J. Keane and Andras Sobester: This book provides a systems engineering approach to UAV design and development. It covers key aspects such as requirements analysis, mission planning, system integration, and testing.
+
+"Practical Electronics for Inventors" by Paul Scherz and Simon Monk: Understanding electronics is crucial for building a drone. This book covers the fundamentals of electronics, including circuits, components, and practical applications. It can help you with the electronic systems of your drone.
+
+"Building Your Own Drones: A Beginners' Guide to Drones, UAVs, and ROVs" by John Baichtal: This beginner-friendly guide covers the basics of building drones, including airframe selection, electronics, flight control, and safety considerations. It provides a good starting point for your drone-building journey.
