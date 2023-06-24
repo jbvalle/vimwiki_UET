@@ -2,4 +2,4 @@
 ----
 
 == Embedded Systems Skill Tree Overview ==
-{{local:./img/Embedded_Systems_SkillTreeOverview.svg}}
+{{svg:./img/EmbeddedSystemsSkillTree.svg}}
