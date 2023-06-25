@@ -74,6 +74,6 @@
     # [[UET_ARM_NVIC]]
     # [[UET_ARM_SysTick]]
     # [[UET_ARM_Taskscheduler]]
-    
+
 == Embedded Systems Skill Tree ==
     # [[UET_ESST_overview]]
