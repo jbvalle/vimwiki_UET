@@ -9,7 +9,7 @@ Inside the room I find a lever that when activated did nothing. I decide not to 
 _Room 2: nr 35_
 The room is geomorphic which contains a mysterious lever, which i activate. Suddenly I hear a loud rumble somewhere in the dungeon. Again I decided to proceed without further searching the room.
 
-_Room 3:_
+_Room 3: nr 28_
 Upon entering I encountered *Giant Spider, nr 30* with a *Web Ability*:
     - Turn 1: 
         * The Monster seems to attack normally
@@ -25,6 +25,6 @@ Upon entering I encountered *Giant Spider, nr 30* with a *Web Ability*:
         * The monster is killed!
         * I hack off the dead monsters skin (table P, nr 79) and earn *HIDE/SKIN , 27gp*
      
-After I defeated the monster I proceed to investigate a door which turned out to be opened.
+The rooms turned out to have *no specific properties*. After I defeated the monster I proceed to investigate a door which turned out to be opened. I decided not to search the room further and continue entering the next room.
 
 
