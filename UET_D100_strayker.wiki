@@ -3,3 +3,7 @@
 == Strayker Backstory ==
 
 [[file:./res/strayker_backstory.pdf | Strayker Backstory]]
+
+== Character Sheet ==
+
+[[file:./res/CS_iron_rank_v3.pdf | Strayker Character Sheet]]
