@@ -80,4 +80,4 @@
 
 == D100 Dungeon ==
 	# [[UET_D100_strayker]]
-    # D100_Book
+    # [[D100_Book1]]

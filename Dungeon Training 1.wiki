@@ -1,0 +1,30 @@
+:UET:D100:Book1:Q1:
+----
+== Session 1: 03.07.2023 ==
+
+_Room 1: nr 57_
+The first I encounter is a geomorphic room with with a door that turned out to be opened.
+Inside the room I find a lever that when activated did nothing. I decide not to search it and proceed to the next room.
+
+_Room 2: nr 35_
+The room is geomorphic which contains a mysterious lever, which i activate. Suddenly I hear a loud rumble somewhere in the dungeon. Again I decided to proceed without further searching the room.
+
+_Room 3:_
+Upon entering I encountered *Giant Spider, nr 30* with a *Web Ability*:
+    - Turn 1: 
+        * The Monster seems to attack normally
+        * I attack and hit successfully with an attack dmg = 4
+        * The monster has 4 remaining HP
+        * The monster initates an attack and hits successfully (D6 = 4, D10 DMG MOD = -1 (feet), Monster DMG = -1; Total = 2)
+        * I experience 2 dmg and therefore 18HP remaining
+        
+    - Turn 2:
+        * The monster seems to attack normally
+        * I attack and hit successfully (d6 = 6 + 6 = 12; D10->4 = 0; Weapon DMG = 3; Total = 15)
+        * The monster suffers 13dmg and has no remaining HP left
+        * The monster is killed!
+        * I hack off the dead monsters skin (table P, nr 79) and earn *HIDE/SKIN , 27gp*
+     
+After I defeated the monster I proceed to investigate a door which turned out to be opened.
+
+
